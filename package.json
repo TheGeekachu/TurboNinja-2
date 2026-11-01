@@ -1,0 +1,31 @@
+{
+  "name": "turboninja-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGeekachu/TurboNinja-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TheGeekachu/TurboNinja-2/issues"
+  },
+  "homepage": "https://github.com/TheGeekachu/TurboNinja-2#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "kaplay": "^3001.0.19",
+    "mongodb": "^7.8.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
